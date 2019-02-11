@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="61e07244-9cc0-4463-be50-1988897913c8" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="61e07244-9cc0-4463-be50-1988897913c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ast/ASTPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ast/ASTPrinter.java" afterDir="false" />
+    </list>
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1409483490">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="3" />
+          <entry key="cfg" value="1" />
+          <entry key="follow" value="3" />
+<<<<<<< HEAD
+          <entry key="java" value="147" />
+=======
+          <entry key="java" value="133" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+          <entry key="ll(k)" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C++" value="3" />
+<<<<<<< HEAD
+          <entry key="JAVA" value="147" />
+          <entry key="PLAIN_TEXT" value="10" />
+=======
+          <entry key="JAVA" value="133" />
+          <entry key="PLAIN_TEXT" value="9" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cfg" value="10206" />
+          <entry key="follow" value="2396" />
+<<<<<<< HEAD
+          <entry key="java" value="52753" />
+=======
+          <entry key="java" value="45161" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+          <entry key="ll(k)" value="108" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="JAVA" value="52753" />
+          <entry key="PLAIN_TEXT" value="12742" />
+=======
+          <entry key="JAVA" value="45161" />
+          <entry key="PLAIN_TEXT" value="12723" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="114">
+              <caret line="526" selection-start-line="526" selection-end-line="526" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#335#1021#0" />
+                <element signature="e#1586#2336#0" />
+                <element signature="e#2342#2869#0" />
+                <element signature="e#2876#3204#0" />
+                <element signature="e#3210#3685#0" />
+                <element signature="e#3691#3980#0" />
+                <element signature="e#4013#4454#0" />
+                <element signature="e#4462#4902#0" />
+                <element signature="e#4907#5021#0" />
+                <element signature="e#5029#5438#0" />
+                <element signature="e#5444#6208#0" />
+                <element signature="e#6214#6569#0" />
+                <element signature="e#6575#7080#0" />
+                <element signature="e#7088#7475#0" />
+                <element signature="e#7481#9315#0" />
+                <element signature="e#9321#10937#0" />
+                <element signature="e#13755#14801#0" />
+                <element signature="e#14807#15340#0" />
+                <element signature="e#15558#17102#0" />
+                <element signature="e#17110#17781#0" />
+                <element signature="e#17787#18897#0" />
+                <element signature="e#18903#19922#0" />
+                <element signature="e#19928#21254#0" />
+                <element signature="e#21260#22007#0" />
+                <element signature="e#22012#22364#0" />
+                <element signature="e#22370#22883#0" />
+                <element signature="e#22889#23319#0" />
+                <element signature="e#23328#23655#0" />
+                <element signature="e#23748#23956#0" />
+                <element signature="e#23961#24223#0" />
+                <element signature="e#24229#24438#0" />
+                <element signature="e#24443#24706#0" />
+                <element signature="e#24712#24950#0" />
+                <element signature="e#24955#25403#0" />
+                <element signature="e#25409#25662#0" />
+                <element signature="e#25667#26487#0" />
+                <element signature="e#26493#26802#0" />
+                <element signature="e#26807#27264#0" />
+                <element signature="e#27270#27592#0" />
+                <element signature="e#27597#28250#0" />
+                <element signature="e#28728#29312#0" />
+                <element signature="e#29317#29594#0" />
+                <element signature="e#29599#29866#0" />
+                <element signature="e#29871#30078#0" />
+                <element signature="e#30083#30365#0" />
+                <element signature="e#30373#31754#0" />
+                <element signature="e#31760#32240#0" />
+                <element signature="e#32246#32587#0" />
+                <element signature="e#32593#33086#0" />
+                <element signature="e#34709#36224#0" />
+                <element signature="e#36232#36576#0" />
+=======
+            <state relative-caret-position="150">
+              <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1335#1336#0" expanded="true" />
+                <element signature="e#1489#1490#0" expanded="true" />
+                <element signature="e#1517#1518#0" expanded="true" />
+                <element signature="e#5073#5535#0" />
+                <element signature="e#5540#5826#0" />
+                <element signature="e#5832#6641#0" />
+                <element signature="e#7809#8131#0" />
+                <element signature="e#8137#8972#0" />
+                <element signature="e#8977#10305#0" />
+                <element signature="e#10311#11308#0" />
+                <element signature="e#12091#12904#0" />
+                <element signature="e#12910#13654#0" />
+                <element signature="e#13659#14664#0" />
+                <element signature="e#14669#15204#0" />
+                <element signature="e#15206#16492#0" />
+                <element signature="e#16494#16717#0" />
+                <element signature="e#16723#17118#0" />
+                <element signature="e#17119#17499#0" />
+                <element signature="e#17506#18490#0" />
+                <element signature="e#19342#19683#0" />
+                <element signature="e#19689#20679#0" />
+                <element signature="e#20685#22213#0" />
+                <element signature="e#22214#22766#0" />
+                <element signature="e#22767#23288#0" />
+                <element signature="e#23289#23776#0" />
+                <element signature="e#23777#24175#0" />
+                <element signature="e#24182#25205#0" />
+                <element signature="e#25210#25292#0" />
+                <element signature="e#36487#37054#0" />
+                <element signature="e#37100#38514#0" />
+                <element signature="e#38291#38856#0" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ast/StructTypeDecl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ast/ASTPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="-84">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+=======
+            <state relative-caret-position="401">
+              <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/ast/FunDecl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/ast/StructType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grammar/ebnf.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ast/FunCallExpr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grammar/follow">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+<<<<<<< HEAD
+=======
+      <find>if(isLogged)l</find>
+      <find>: from</find>
+      <find>logIt</find>
+      <find>LOOK</find>
+      <find>BaseType</find>
+      <find>LOOKAHEAD TOKE</find>
+      <find>Void</find>
+      <find>visitStruct</find>
+      <find>visitRen</find>
+      <find>parseType</find>
+      <find>While(</find>
+      <find>&quot;PARSING</find>
+      <find>&quot;PARSING :</find>
+      <find>FACTOR =</find>
+      <find>FunCallExpr</find>
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+      <find>FunCall</find>
+      <find>vis</find>
+      <find>System.out</find>
+      <find>visitType</find>
+      <find>binOp</find>
+      <find>Block</find>
+      <find>VarExpr</find>
+      <find>isDe</find>
+      <find>assign</find>
+      <find>ASSIGN</find>
+      <find>accept(TokenClass.LPAR,</find>
+      <find>visitS</find>
+      <find>valueAt</find>
+      <find>varDecl</find>
+      <find>ArrayType</find>
+<<<<<<< HEAD
+      <find>v</find>
+      <find>FunDecl</find>
+      <find>parseVarDecls</find>
+      <find>parseType</find>
+      <find>parseVarDecl</find>
+      <find>TokenClass.IDENTIFIER</find>
+      <find>parseState</find>
+      <find>Assign</find>
+      <find>lookAheadToken</find>
+      <find>checkStructTypeDecl</find>
+      <find>checkVarDecl</find>
+      <find>parseStructType</find>
+      <find>visitRETUn</find>
+      <find>visitBlock</find>
+      <find>Type parseTy</find>
+=======
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+    </findStrings>
+    <replaceStrings>
+      <replace>asterixOpt</replace>
+      <replace>if(</replace>
+      <replace>if(isLogged)System</replace>
+      <replace>logIt</replace>
+      <replace>(1, &quot;PARSING</replace>
+      <replace>(-1, &quot;FIN</replace>
+      <replace>l</replace>
+      <replace>&quot;P:</replace>
+      <replace>Type</replace>
+      <replace>&quot;F:</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/parser/Parser.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lexer/TokenFSM.java" />
+        <option value="$PROJECT_DIR$/src/lexer/Tokeniser.java" />
+        <option value="$PROJECT_DIR$/grammar/ll(k)" />
+        <option value="$PROJECT_DIR$/grammar/cfg" />
+        <option value="$PROJECT_DIR$/src/ast/StructTypeDecl.java" />
+        <option value="$PROJECT_DIR$/src/ast/Op.java" />
+        <option value="$PROJECT_DIR$/src/ast/ASTVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ast/VarDecl.java" />
+        <option value="$PROJECT_DIR$/src/ast/StrLiteral.java" />
+        <option value="$PROJECT_DIR$/src/ast/ChrLiteral.java" />
+        <option value="$PROJECT_DIR$/src/ast/BinOp.java" />
+        <option value="$PROJECT_DIR$/src/ast/FieldAccessExpr.java" />
+        <option value="$PROJECT_DIR$/src/ast/Expr.java" />
+        <option value="$PROJECT_DIR$/src/ast/ValueAtExpr.java" />
+        <option value="$PROJECT_DIR$/src/ast/SizeOfExpr.java" />
+        <option value="$PROJECT_DIR$/src/ast/TypecastExpr.java" />
+        <option value="$PROJECT_DIR$/src/ast/ArrayAccessExpr.java" />
+        <option value="$PROJECT_DIR$/src/ast/Stmt.java" />
+        <option value="$PROJECT_DIR$/src/ast/Block.java" />
+        <option value="$PROJECT_DIR$/src/ast/While.java" />
+        <option value="$PROJECT_DIR$/src/ast/Assign.java" />
+        <option value="$PROJECT_DIR$/src/ast/ArrayType.java" />
+        <option value="$PROJECT_DIR$/src/ast/FunCallExpr.java" />
+        <option value="$PROJECT_DIR$/src/ast/IntLiteral.java" />
+        <option value="$PROJECT_DIR$/src/ast/If.java" />
+        <option value="$PROJECT_DIR$/src/ast/Return.java" />
+        <option value="$PROJECT_DIR$/src/sem/NameAnalysisVisitor.java" />
+        <option value="$PROJECT_DIR$/src/sem/TypeCheckVisitor.java" />
+        <option value="$PROJECT_DIR$/grammar/ebnf.txt" />
+        <option value="$PROJECT_DIR$/grammar/follow" />
+        <option value="$PROJECT_DIR$/src/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/ast/ASTPrinter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+              <item name="grammar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ct-18-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ct-18-19" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539695639272" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539625891012" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e07244-9cc0-4463-be50-1988897913c8" name="Default Changelist" comment="" />
+      <created>1537454111688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537454111688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15167785" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lexer/Tokeniser.java</url>
+          <line>451</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lexer/Tokeniser.java</url>
+          <line>531</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+<<<<<<< HEAD
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/parser/Parser.java</url>
+          <line>201</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/parser/Parser.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+=======
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lexer/TokenFSM.java" />
+    <entry file="file://$PROJECT_DIR$/tests/tictactoe.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3171">
+          <caret line="151" lean-forward="true" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lexer/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lexer/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fibonacci.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/ll(k)" />
+    <entry file="file://$PROJECT_DIR$/../../../mfilatov-ct-16-17-4af060d6b7ca/src/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="465" column="29" lean-forward="true" selection-start-line="465" selection-start-column="29" selection-end-line="465" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="315" selection-start-line="315" selection-end-line="315" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lexer/Tokeniser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="419" column="41" selection-start-line="419" selection-start-column="41" selection-end-line="419" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ASTVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/StrLiteral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ValueAtExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/SizeOfExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/abstract_grammar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/BinOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ChrLiteral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Op.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/IntLiteral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/BaseType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/PointerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/VarDecl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sem/BaseSemanticVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ExprStmt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Assign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Stmt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+<<<<<<< HEAD
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/follow">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+=======
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/While.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Return.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/If.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/TypecastExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ArrayAccessExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/Expr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/VarExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/FieldAccessExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/FunDecl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/ebnf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+=======
+        <state relative-caret-position="354">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/follow">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/FunCallExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/StructType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/StructTypeDecl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/sem/NameAnalysisVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sem/TypeCheckVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="127" column="44" selection-start-line="127" selection-start-column="44" selection-end-line="127" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/FunDecl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ASTPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1489#1490#0" expanded="true" />
+            <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#5073#5535#0" />
+            <element signature="e#5540#5826#0" />
+            <element signature="e#5832#6641#0" />
+            <element signature="e#7809#8131#0" />
+            <element signature="e#8137#8972#0" />
+            <element signature="e#8977#10305#0" />
+            <element signature="e#10311#11308#0" />
+            <element signature="e#12091#12904#0" />
+            <element signature="e#12910#13654#0" />
+            <element signature="e#13659#14664#0" />
+            <element signature="e#14669#15204#0" />
+            <element signature="e#15206#16492#0" />
+            <element signature="e#16494#16717#0" />
+            <element signature="e#16723#17118#0" />
+            <element signature="e#17119#17499#0" />
+            <element signature="e#17506#18490#0" />
+            <element signature="e#19342#19683#0" />
+            <element signature="e#19689#20679#0" />
+            <element signature="e#20685#22213#0" />
+            <element signature="e#22214#22766#0" />
+            <element signature="e#22767#23288#0" />
+            <element signature="e#23289#23776#0" />
+            <element signature="e#23777#24175#0" />
+            <element signature="e#24182#25205#0" />
+            <element signature="e#25210#25292#0" />
+            <element signature="e#36487#37054#0" />
+            <element signature="e#37100#38514#0" />
+            <element signature="e#38291#38856#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/ASTPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="114">
+          <caret line="526" selection-start-line="526" selection-end-line="526" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#1021#0" />
+            <element signature="e#1586#2336#0" />
+            <element signature="e#2342#2869#0" />
+            <element signature="e#2876#3204#0" />
+            <element signature="e#3210#3685#0" />
+            <element signature="e#3691#3980#0" />
+            <element signature="e#4013#4454#0" />
+            <element signature="e#4462#4902#0" />
+            <element signature="e#4907#5021#0" />
+            <element signature="e#5029#5438#0" />
+            <element signature="e#5444#6208#0" />
+            <element signature="e#6214#6569#0" />
+            <element signature="e#6575#7080#0" />
+            <element signature="e#7088#7475#0" />
+            <element signature="e#7481#9315#0" />
+            <element signature="e#9321#10937#0" />
+            <element signature="e#13755#14801#0" />
+            <element signature="e#14807#15340#0" />
+            <element signature="e#15558#17102#0" />
+            <element signature="e#17110#17781#0" />
+            <element signature="e#17787#18897#0" />
+            <element signature="e#18903#19922#0" />
+            <element signature="e#19928#21254#0" />
+            <element signature="e#21260#22007#0" />
+            <element signature="e#22012#22364#0" />
+            <element signature="e#22370#22883#0" />
+            <element signature="e#22889#23319#0" />
+            <element signature="e#23328#23655#0" />
+            <element signature="e#23748#23956#0" />
+            <element signature="e#23961#24223#0" />
+            <element signature="e#24229#24438#0" />
+            <element signature="e#24443#24706#0" />
+            <element signature="e#24712#24950#0" />
+            <element signature="e#24955#25403#0" />
+            <element signature="e#25409#25662#0" />
+            <element signature="e#25667#26487#0" />
+            <element signature="e#26493#26802#0" />
+            <element signature="e#26807#27264#0" />
+            <element signature="e#27270#27592#0" />
+            <element signature="e#27597#28250#0" />
+            <element signature="e#28728#29312#0" />
+            <element signature="e#29317#29594#0" />
+            <element signature="e#29599#29866#0" />
+            <element signature="e#29871#30078#0" />
+            <element signature="e#30083#30365#0" />
+            <element signature="e#30373#31754#0" />
+            <element signature="e#31760#32240#0" />
+            <element signature="e#32246#32587#0" />
+            <element signature="e#32593#33086#0" />
+            <element signature="e#34709#36224#0" />
+            <element signature="e#36232#36576#0" />
+=======
+        <state relative-caret-position="401">
+          <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+>>>>>>> f00567e5986cfe7b63d1e9cd51c0f24a31d8212b
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

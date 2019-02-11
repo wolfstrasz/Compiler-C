@@ -1,0 +1,95 @@
+# #  comment
+# () grouping
+# [] optional
+# *  zero or more
+# +  one or more
+# |  alternative
+
+// PROGRAM
+DONE: program    ::= includeRep structdeclRep vardeclRep fundeclRep EOF
+
+// INCLUDE
+DONE: includeRep ::= include includeRep | .
+DONE: include    ::= "#include" STRING_LITERAL
+
+// STRUCTS
+DONE: structdeclRep ::= structdecl structdeclRep | .
+DONE: structdecl ::= structtype "{" vardecl vardeclRep "}" ";"    # structure declaration
+
+// VARS
+DONE: vardeclRep ::= vardecl vardeclRep | .
+DONE: vardecl    ::= type IDENT ";"                       # normal declaration, e.g. int a;
+                   | type IDENT "[" INT_LITERAL "]" ";"   # array declaration, e.g. int a[2];
+// FUNCS
+DONE: fundeclRep ::= fundecl fundeclRep | .
+DONE: fundecl    ::= type IDENT "(" params ")" block    # function declaration
+
+// TYPES
+DONE: type       ::= ("int" | "char" | "void" | structtype) asterixOpt
+DONE: asterixOpt ::= "*" | .
+DONE: structtype ::= "struct" IDENT
+
+// PARAMS
+DONE: params         ::= paramsList
+DONE: paramsList     ::=  type IDENT paramsListRep | .
+DONE: paramsListRep  ::= "," type IDENT paramsRep | .
+
+// BLOCKS
+DONE: block      ::= "{" vardeclRep stmtRep "}"
+
+// STATEMENT DECLARATION
+DONE: stmtRep    ::= stmt stmtRep | .
+DONE: stmt       ::= "if" "(" exp ")" stmt elseStmtOpt     # if then else
+                   | "while" "(" exp ")" stmt               # while
+                   | "return" exptOpt ";"                   # return
+                   | exp "=" exp ";"                        # assignment
+                   | exp ";"                                # expression
+                   | block                                  # block
+
+DONE: elseStmtOpt::= "else" stmt | .
+
+// EXPRESSION DECLARATION
+DONE: expOpt ::= exp | .
+DONE: exp ::= orExp;
+// Level 8
+DONE: orExp   ::= andExp orExp'
+DONE: orExp'  ::= "||" andExp orExp'      | .
+// Level 7
+DONE: andExp  ::= eqExp andExp'
+DONE: andExp' ::= "&&" eqExp andExp'      | .
+// Level 6
+DONE: eqExp   ::= relExp eqExp'
+DONE: eqExp'  ::= eqOP relExp eqExp'      | .
+DONE: eqOp    ::= "!=" | "=="
+// Level 5
+DONE: relExp  ::= addExp relExp'
+DONE: relExp' ::= relOP addExp relExp'    | .
+DONE: relOp   :: "<=" | "<" | ">" | "=>"
+// Level 4
+DONE: addExp  ::= mulExp addExp'
+DONE: addExp' ::= addOp mulExp addExp'    | .
+DONE: addOp   ::= "+" | "-"
+// Level 3
+mulExp  ::= unaryExp mulExp'
+mulExp  ::= mulOP unaryExp mulExp'  | .
+mulOp   ::= "*" | "/" | "%"
+// Level 2
+// EXP or UnaryExp??
+// WENT FOR EXP NOW
+unaryExp :: = "(" type ")" Exp                  // typecast
+            | "sizeof" "(" type ")"                  // sizeof
+            | "*" Exp                           // valueat
+            | "-" Exp                           // unary minus
+            | accessExp
+// Level 1
+accessExp ::= IDENT "(" funcallArgsList ")"  accessExp' // funcall
+            | factor accessExp'
+
+accessExp'::= "[" exp "]" accessExp'    // arrayaccess
+            | "." IDENT accessExp'      // fieldaccess
+            | .
+funcallArgsList ::= exp funcallArgsListRep | .
+funcallArgsListRep ::= "," exp funcallArgsListRep| .
+// Level 0
+factor     ::= IDENTIFIER | INT_LITERAL | CHAR_LITERAL | STRING_LITERAL
+             | "(" exp ")"
