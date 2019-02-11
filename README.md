@@ -11,7 +11,7 @@ The grammar and typing rules are provided in ./grammar/
 ## Building and testing
 # Build
 ''' 
->> ant build
+> ant build
 '''
 
 # Running
@@ -22,7 +22,7 @@ Can be done in 5 different:
 -sem (Semantics analysis and typechecking)
 -gen (code generations)
 '''
->> java -cp bin Main [FUNCTIONALITY] [PATH_TO_TEST] [PATH_TO_OUT_FILE]
+> java -cp bin Main [FUNCTIONALITY] [PATH_TO_TEST] [PATH_TO_OUT_FILE]
 '''
 
 ## Example code generation of fibonacci test
